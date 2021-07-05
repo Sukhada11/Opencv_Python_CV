@@ -1,0 +1,2347 @@
+{
+  "sim_res": {
+    "LK": {
+      "thresholds": [
+        {
+          "value": 1.0,
+          "param": "lane distance"
+        }
+      ],
+      "eval_time": 1575215325174735104,
+      "failure_time": [
+        {
+          "reason": "1.0130696774984638m away from lane-center",
+          "timestamp": 1575186585674209
+        },
+        {
+          "reason": "1.0143478018603818m away from lane-center",
+          "timestamp": 1575186809978792
+        },
+        {
+          "reason": "1.0300136332561594m away from lane-center",
+          "timestamp": 1575186809995685
+        },
+        {
+          "reason": "1.0472658997649418m away from lane-center",
+          "timestamp": 1575186810012102
+        },
+        {
+          "reason": "1.0636007804561285m away from lane-center",
+          "timestamp": 1575186810029021
+        },
+        {
+          "reason": "1.0807762825599687m away from lane-center",
+          "timestamp": 1575186810045484
+        },
+        {
+          "reason": "1.098200574340305m away from lane-center",
+          "timestamp": 1575186810062323
+        },
+        {
+          "reason": "1.115204775539724m away from lane-center",
+          "timestamp": 1575186810078806
+        },
+        {
+          "reason": "1.1313331767032406m away from lane-center",
+          "timestamp": 1575186810095628
+        },
+        {
+          "reason": "1.1446428422501809m away from lane-center",
+          "timestamp": 1575186810112121
+        },
+        {
+          "reason": "1.1579525272970368m away from lane-center",
+          "timestamp": 1575186810129008
+        },
+        {
+          "reason": "1.1710803450284173m away from lane-center",
+          "timestamp": 1575186810145412
+        },
+        {
+          "reason": "1.184813967533095m away from lane-center",
+          "timestamp": 1575186810162341
+        },
+        {
+          "reason": "1.198789724714002m away from lane-center",
+          "timestamp": 1575186810178765
+        },
+        {
+          "reason": "1.212765467075076m away from lane-center",
+          "timestamp": 1575186810195649
+        },
+        {
+          "reason": "1.226983365571049m away from lane-center",
+          "timestamp": 1575186810212143
+        },
+        {
+          "reason": "1.2426551068984821m away from lane-center",
+          "timestamp": 1575186810228907
+        },
+        {
+          "reason": "1.2579631778841387m away from lane-center",
+          "timestamp": 1575186810245489
+        },
+        {
+          "reason": "1.2730290972162102m away from lane-center",
+          "timestamp": 1575186810262249
+        },
+        {
+          "reason": "1.2887611892683732m away from lane-center",
+          "timestamp": 1575186810278859
+        },
+        {
+          "reason": "1.3044932923828756m away from lane-center",
+          "timestamp": 1575186810295619
+        },
+        {
+          "reason": "1.3206494068611805m away from lane-center",
+          "timestamp": 1575186810312142
+        },
+        {
+          "reason": "1.3372295328642705m away from lane-center",
+          "timestamp": 1575186810328905
+        },
+        {
+          "reason": "1.3544758322201782m away from lane-center",
+          "timestamp": 1575186810345487
+        },
+        {
+          "reason": "1.3715403047871126m away from lane-center",
+          "timestamp": 1575186810362287
+        },
+        {
+          "reason": "1.3881204659907849m away from lane-center",
+          "timestamp": 1575186810378877
+        },
+        {
+          "reason": "1.4058511255897288m away from lane-center",
+          "timestamp": 1575186810395529
+        },
+        {
+          "reason": "1.424611636728586m away from lane-center",
+          "timestamp": 1575186810412185
+        },
+        {
+          "reason": "1.4422819984893696m away from lane-center",
+          "timestamp": 1575186810428892
+        },
+        {
+          "reason": "1.461284695354966m away from lane-center",
+          "timestamp": 1575186810445428
+        },
+        {
+          "reason": "1.4794394045120072m away from lane-center",
+          "timestamp": 1575186810462323
+        },
+        {
+          "reason": "1.4981999637284176m away from lane-center",
+          "timestamp": 1575186810478758
+        },
+        {
+          "reason": "1.5187168589552804m away from lane-center",
+          "timestamp": 1575186810495636
+        },
+        {
+          "reason": "1.5377196066952648m away from lane-center",
+          "timestamp": 1575186810512081
+        },
+        {
+          "reason": "1.5578125314126454m away from lane-center",
+          "timestamp": 1575186810528925
+        },
+        {
+          "reason": "1.5772393094818766m away from lane-center",
+          "timestamp": 1575186810545448
+        },
+        {
+          "reason": "1.5979983702424239m away from lane-center",
+          "timestamp": 1575186810562244
+        },
+        {
+          "reason": "1.6183333907110158m away from lane-center",
+          "timestamp": 1575186810578855
+        },
+        {
+          "reason": "1.6401222156119817m away from lane-center",
+          "timestamp": 1575186810595563
+        },
+        {
+          "reason": "1.6608811873926919m away from lane-center",
+          "timestamp": 1575186810612143
+        },
+        {
+          "reason": "1.677318918787503m away from lane-center",
+          "timestamp": 1575186810628908
+        },
+        {
+          "reason": "1.6561225421138641m away from lane-center",
+          "timestamp": 1575186810645433
+        },
+        {
+          "reason": "1.6346845168145123m away from lane-center",
+          "timestamp": 1575186810662252
+        },
+        {
+          "reason": "1.613670772838703m away from lane-center",
+          "timestamp": 1575186810678833
+        },
+        {
+          "reason": "1.5909599499433842m away from lane-center",
+          "timestamp": 1575186810695539
+        },
+        {
+          "reason": "1.5690979453644993m away from lane-center",
+          "timestamp": 1575186810712178
+        },
+        {
+          "reason": "1.5484787796530814m away from lane-center",
+          "timestamp": 1575186810728881
+        },
+        {
+          "reason": "1.5297035027816461m away from lane-center",
+          "timestamp": 1575186810745474
+        },
+        {
+          "reason": "1.5106916861883597m away from lane-center",
+          "timestamp": 1575186810762250
+        },
+        {
+          "reason": "1.4921070446945903m away from lane-center",
+          "timestamp": 1575186810778813
+        },
+        {
+          "reason": "1.472858728597225m away from lane-center",
+          "timestamp": 1575186810795599
+        },
+        {
+          "reason": "1.4534201285302397m away from lane-center",
+          "timestamp": 1575186810812154
+        },
+        {
+          "reason": "1.433981576109518m away from lane-center",
+          "timestamp": 1575186810828896
+        },
+        {
+          "reason": "1.4143063551144992m away from lane-center",
+          "timestamp": 1575186810845489
+        },
+        {
+          "reason": "1.3942040959850652m away from lane-center",
+          "timestamp": 1575186810862223
+        },
+        {
+          "reason": "1.3747656317164478m away from lane-center",
+          "timestamp": 1575186810878821
+        },
+        {
+          "reason": "1.3548538111663588m away from lane-center",
+          "timestamp": 1575186810895619
+        },
+        {
+          "reason": "1.3340878855927951m away from lane-center",
+          "timestamp": 1575186810912150
+        },
+        {
+          "reason": "1.3139857528703753m away from lane-center",
+          "timestamp": 1575186810928916
+        },
+        {
+          "reason": "1.2934566312338873m away from lane-center",
+          "timestamp": 1575186810945468
+        },
+        {
+          "reason": "1.272454157496753m away from lane-center",
+          "timestamp": 1575186810962237
+        },
+        {
+          "reason": "1.2523522083395326m away from lane-center",
+          "timestamp": 1575186810978817
+        },
+        {
+          "reason": "1.2311594537172066m away from lane-center",
+          "timestamp": 1575186810995814
+        },
+        {
+          "reason": "1.2101570962160662m away from lane-center",
+          "timestamp": 1575186811012105
+        },
+        {
+          "reason": "1.1887277015925874m away from lane-center",
+          "timestamp": 1575186811028927
+        },
+        {
+          "reason": "1.1673446717286617m away from lane-center",
+          "timestamp": 1575186811045406
+        },
+        {
+          "reason": "1.1459152746463077m away from lane-center",
+          "timestamp": 1575186811062598
+        },
+        {
+          "reason": "1.1244858736462444m away from lane-center",
+          "timestamp": 1575186811078773
+        },
+        {
+          "reason": "1.1031028417946973m away from lane-center",
+          "timestamp": 1575186811095600
+        },
+        {
+          "reason": "1.081863855834228m away from lane-center",
+          "timestamp": 1575186811112155
+        },
+        {
+          "reason": "1.060007439072179m away from lane-center",
+          "timestamp": 1575186811128875
+        },
+        {
+          "reason": "1.0381511069384266m away from lane-center",
+          "timestamp": 1575186811145514
+        },
+        {
+          "reason": "1.0167219220595043m away from lane-center",
+          "timestamp": 1575186811162223
+        },
+        {
+          "reason": "1.0183222737536635m away from lane-center",
+          "timestamp": 1575187261673846
+        },
+        {
+          "reason": "1.0330872478629145m away from lane-center",
+          "timestamp": 1575187261698329
+        },
+        {
+          "reason": "1.047739120529612m away from lane-center",
+          "timestamp": 1575187261721527
+        },
+        {
+          "reason": "1.0832275838502878m away from lane-center",
+          "timestamp": 1575187261744679
+        },
+        {
+          "reason": "1.09868002121271m away from lane-center",
+          "timestamp": 1575187261769371
+        },
+        {
+          "reason": "1.1142797913207767m away from lane-center",
+          "timestamp": 1575187261792532
+        },
+        {
+          "reason": "1.1511063065454672m away from lane-center",
+          "timestamp": 1575187261816300
+        },
+        {
+          "reason": "1.1667635473734477m away from lane-center",
+          "timestamp": 1575187261841353
+        },
+        {
+          "reason": "1.1822984807585062m away from lane-center",
+          "timestamp": 1575187261864935
+        },
+        {
+          "reason": "1.2216597114110652m away from lane-center",
+          "timestamp": 1575187261887732
+        },
+        {
+          "reason": "1.2386906077261877m away from lane-center",
+          "timestamp": 1575187261912139
+        },
+        {
+          "reason": "1.2721483735243737m away from lane-center",
+          "timestamp": 1575187261938246
+        },
+        {
+          "reason": "1.2892074581083852m away from lane-center",
+          "timestamp": 1575187261964176
+        },
+        {
+          "reason": "1.3054127040513963m away from lane-center",
+          "timestamp": 1575187261987907
+        },
+        {
+          "reason": "1.3487271379630104m away from lane-center",
+          "timestamp": 1575187262012164
+        },
+        {
+          "reason": "1.3664126842061637m away from lane-center",
+          "timestamp": 1575187262037408
+        },
+        {
+          "reason": "1.3834733900058513m away from lane-center",
+          "timestamp": 1575187262061058
+        },
+        {
+          "reason": "1.4265460424952978m away from lane-center",
+          "timestamp": 1575187262084958
+        },
+        {
+          "reason": "1.4437571160282299m away from lane-center",
+          "timestamp": 1575187262110914
+        },
+        {
+          "reason": "1.4635883652338841m away from lane-center",
+          "timestamp": 1575187262134672
+        },
+        {
+          "reason": "1.5083571059485157m away from lane-center",
+          "timestamp": 1575187262158718
+        },
+        {
+          "reason": "1.5280777541875061m away from lane-center",
+          "timestamp": 1575187262184605
+        },
+        {
+          "reason": "1.5459304155921874m away from lane-center",
+          "timestamp": 1575187262207322
+        },
+        {
+          "reason": "1.5560700891611716m away from lane-center",
+          "timestamp": 1575187262230861
+        },
+        {
+          "reason": "1.576026829343283m away from lane-center",
+          "timestamp": 1575187262256612
+        },
+        {
+          "reason": "1.5938592624337613m away from lane-center",
+          "timestamp": 1575187262280211
+        },
+        {
+          "reason": "1.584695848507876m away from lane-center",
+          "timestamp": 1575187262303661
+        },
+        {
+          "reason": "1.5636021211222626m away from lane-center",
+          "timestamp": 1575187262327740
+        },
+        {
+          "reason": "1.523185714890814m away from lane-center",
+          "timestamp": 1575187262354930
+        },
+        {
+          "reason": "1.5019700404986789m away from lane-center",
+          "timestamp": 1575187262382394
+        },
+        {
+          "reason": "1.45731516165956m away from lane-center",
+          "timestamp": 1575187262406499
+        },
+        {
+          "reason": "1.4369715255650077m away from lane-center",
+          "timestamp": 1575187262431680
+        },
+        {
+          "reason": "1.415128977979174m away from lane-center",
+          "timestamp": 1575187262454684
+        },
+        {
+          "reason": "1.3631643875370203m away from lane-center",
+          "timestamp": 1575187262478931
+        },
+        {
+          "reason": "1.3428194640083395m away from lane-center",
+          "timestamp": 1575187262504379
+        },
+        {
+          "reason": "1.32160248413875m away from lane-center",
+          "timestamp": 1575187262528965
+        },
+        {
+          "reason": "1.2667992757140492m away from lane-center",
+          "timestamp": 1575187262553511
+        },
+        {
+          "reason": "1.2449577399190725m away from lane-center",
+          "timestamp": 1575187262579297
+        },
+        {
+          "reason": "1.2217410611552786m away from lane-center",
+          "timestamp": 1575187262602745
+        },
+        {
+          "reason": "1.169658302770109m away from lane-center",
+          "timestamp": 1575187262625956
+        },
+        {
+          "reason": "1.147690793699924m away from lane-center",
+          "timestamp": 1575187262652021
+        },
+        {
+          "reason": "1.1020150843598138m away from lane-center",
+          "timestamp": 1575187262676365
+        },
+        {
+          "reason": "1.0787995114644349m away from lane-center",
+          "timestamp": 1575187262700515
+        },
+        {
+          "reason": "1.0562098920153586m away from lane-center",
+          "timestamp": 1575187262724766
+        },
+        {
+          "reason": "1.0027358329842448m away from lane-center",
+          "timestamp": 1575187262747836
+        },
+        {
+          "reason": "1.007149716293964m away from lane-center",
+          "timestamp": 1575187565461491
+        },
+        {
+          "reason": "1.0345930083703976m away from lane-center",
+          "timestamp": 1575187565497754
+        },
+        {
+          "reason": "1.0478686474380425m away from lane-center",
+          "timestamp": 1575187565527017
+        },
+        {
+          "reason": "1.0744817426807767m away from lane-center",
+          "timestamp": 1575187565553098
+        },
+        {
+          "reason": "1.087600800809407m away from lane-center",
+          "timestamp": 1575187565579477
+        },
+        {
+          "reason": "1.1164326579540909m away from lane-center",
+          "timestamp": 1575187565605100
+        },
+        {
+          "reason": "1.1297082952514013m away from lane-center",
+          "timestamp": 1575187565631757
+        },
+        {
+          "reason": "1.1548710241826021m away from lane-center",
+          "timestamp": 1575187565656318
+        },
+        {
+          "reason": "1.1699369221630314m away from lane-center",
+          "timestamp": 1575187565681901
+        },
+        {
+          "reason": "1.1996874888091456m away from lane-center",
+          "timestamp": 1575187565707022
+        },
+        {
+          "reason": "1.212963062750565m away from lane-center",
+          "timestamp": 1575187565733828
+        },
+        {
+          "reason": "1.2409438852228851m away from lane-center",
+          "timestamp": 1575187565758757
+        },
+        {
+          "reason": "1.2544440264894705m away from lane-center",
+          "timestamp": 1575187565784422
+        },
+        {
+          "reason": "1.287222632591132m away from lane-center",
+          "timestamp": 1575187565809285
+        },
+        {
+          "reason": "1.3016235133699818m away from lane-center",
+          "timestamp": 1575187565835583
+        },
+        {
+          "reason": "1.3325127276905386m away from lane-center",
+          "timestamp": 1575187565861138
+        },
+        {
+          "reason": "1.346913523178239m away from lane-center",
+          "timestamp": 1575187565886916
+        },
+        {
+          "reason": "1.3779842378256035m away from lane-center",
+          "timestamp": 1575187565911259
+        },
+        {
+          "reason": "1.3943314564230758m away from lane-center",
+          "timestamp": 1575187565941462
+        },
+        {
+          "reason": "1.4327841454044312m away from lane-center",
+          "timestamp": 1575187565968115
+        },
+        {
+          "reason": "1.4471849033898487m away from lane-center",
+          "timestamp": 1575187565995462
+        },
+        {
+          "reason": "1.482289541417223m away from lane-center",
+          "timestamp": 1575187566020176
+        },
+        {
+          "reason": "1.4986367399932832m away from lane-center",
+          "timestamp": 1575187566045755
+        },
+        {
+          "reason": "1.527760980381934m away from lane-center",
+          "timestamp": 1575187566070223
+        },
+        {
+          "reason": "1.5441081509327748m away from lane-center",
+          "timestamp": 1575187566096388
+        },
+        {
+          "reason": "1.5780830197944207m away from lane-center",
+          "timestamp": 1575187566121779
+        },
+        {
+          "reason": "1.5942685997600563m away from lane-center",
+          "timestamp": 1575187566147734
+        },
+        {
+          "reason": "1.6266296313613327m away from lane-center",
+          "timestamp": 1575187566172372
+        },
+        {
+          "reason": "1.6447360869403194m away from lane-center",
+          "timestamp": 1575187566198084
+        },
+        {
+          "reason": "1.6800368903166212m away from lane-center",
+          "timestamp": 1575187566222635
+        },
+        {
+          "reason": "1.7011426161317529m away from lane-center",
+          "timestamp": 1575187566249746
+        },
+        {
+          "reason": "1.7427400628498442m away from lane-center",
+          "timestamp": 1575187566274519
+        },
+        {
+          "reason": "1.759954855039507m away from lane-center",
+          "timestamp": 1575187566304315
+        },
+        {
+          "reason": "1.8056686090624023m away from lane-center",
+          "timestamp": 1575187566329820
+        },
+        {
+          "reason": "1.8248286481715383m away from lane-center",
+          "timestamp": 1575187566356580
+        },
+        {
+          "reason": "1.8669478549366512m away from lane-center",
+          "timestamp": 1575187566382047
+        },
+        {
+          "reason": "1.8523589304009065m away from lane-center",
+          "timestamp": 1575187566408644
+        },
+        {
+          "reason": "1.8105511434911068m away from lane-center",
+          "timestamp": 1575187566434089
+        },
+        {
+          "reason": "1.7911997019252137m away from lane-center",
+          "timestamp": 1575187566460581
+        },
+        {
+          "reason": "1.74608317305601m away from lane-center",
+          "timestamp": 1575187566487608
+        },
+        {
+          "reason": "1.7269059394890955m away from lane-center",
+          "timestamp": 1575187566515132
+        },
+        {
+          "reason": "1.6865210285154033m away from lane-center",
+          "timestamp": 1575187566539794
+        },
+        {
+          "reason": "1.667343809154399m away from lane-center",
+          "timestamp": 1575187566566006
+        },
+        {
+          "reason": "1.6253024307949917m away from lane-center",
+          "timestamp": 1575187566590483
+        },
+        {
+          "reason": "1.6040056571312118m away from lane-center",
+          "timestamp": 1575187566617146
+        },
+        {
+          "reason": "1.5632428459392531m away from lane-center",
+          "timestamp": 1575187566642108
+        },
+        {
+          "reason": "1.5419461252629405m away from lane-center",
+          "timestamp": 1575187566668651
+        },
+        {
+          "reason": "1.501850200696089m away from lane-center",
+          "timestamp": 1575187566692864
+        },
+        {
+          "reason": "1.4805535565788441m away from lane-center",
+          "timestamp": 1575187566718974
+        },
+        {
+          "reason": "1.4401102580159322m away from lane-center",
+          "timestamp": 1575187566743604
+        },
+        {
+          "reason": "1.4188141329947925m away from lane-center",
+          "timestamp": 1575187566771128
+        },
+        {
+          "reason": "1.3739529851791543m away from lane-center",
+          "timestamp": 1575187566796717
+        },
+        {
+          "reason": "1.351358521353237m away from lane-center",
+          "timestamp": 1575187566822821
+        },
+        {
+          "reason": "1.306318996201699m away from lane-center",
+          "timestamp": 1575187566847394
+        },
+        {
+          "reason": "1.2837255599617678m away from lane-center",
+          "timestamp": 1575187566874266
+        },
+        {
+          "reason": "1.2361403702160643m away from lane-center",
+          "timestamp": 1575187566899884
+        },
+        {
+          "reason": "1.2137269778923008m away from lane-center",
+          "timestamp": 1575187566926460
+        },
+        {
+          "reason": "1.1681184490575809m away from lane-center",
+          "timestamp": 1575187566951636
+        },
+        {
+          "reason": "1.1457050945483442m away from lane-center",
+          "timestamp": 1575187566977490
+        },
+        {
+          "reason": "1.099588999291621m away from lane-center",
+          "timestamp": 1575187567002718
+        },
+        {
+          "reason": "1.075052630276281m away from lane-center",
+          "timestamp": 1575187567030216
+        },
+        {
+          "reason": "1.023030359061544m away from lane-center",
+          "timestamp": 1575187567060084
+        },
+        {
+          "reason": "1.0004366611947442m away from lane-center",
+          "timestamp": 1575187567087449
+        },
+        {
+          "reason": "1.0232540953300648m away from lane-center",
+          "timestamp": 1575187606131198
+        },
+        {
+          "reason": "1.0377994772569605m away from lane-center",
+          "timestamp": 1575187606158799
+        },
+        {
+          "reason": "1.0702197779814433m away from lane-center",
+          "timestamp": 1575187606184357
+        },
+        {
+          "reason": "1.0847651281223114m away from lane-center",
+          "timestamp": 1575187606211282
+        },
+        {
+          "reason": "1.1200427441689966m away from lane-center",
+          "timestamp": 1575187606236758
+        },
+        {
+          "reason": "1.1363447789026202m away from lane-center",
+          "timestamp": 1575187606266264
+        },
+        {
+          "reason": "1.174754339777676m away from lane-center",
+          "timestamp": 1575187606292995
+        },
+        {
+          "reason": "1.1910563724522125m away from lane-center",
+          "timestamp": 1575187606321715
+        },
+        {
+          "reason": "1.2265947835549615m away from lane-center",
+          "timestamp": 1575187606347178
+        },
+        {
+          "reason": "1.2428968182834126m away from lane-center",
+          "timestamp": 1575187606374988
+        },
+        {
+          "reason": "1.2775815884139927m away from lane-center",
+          "timestamp": 1575187606401429
+        },
+        {
+          "reason": "1.2938836254850652m away from lane-center",
+          "timestamp": 1575187606429558
+        },
+        {
+          "reason": "1.3312281460870548m away from lane-center",
+          "timestamp": 1575187606455470
+        },
+        {
+          "reason": "1.3475301850593482m away from lane-center",
+          "timestamp": 1575187606481774
+        },
+        {
+          "reason": "1.383661448653781m away from lane-center",
+          "timestamp": 1575187606507894
+        },
+        {
+          "reason": "1.4008171350727252m away from lane-center",
+          "timestamp": 1575187606535090
+        },
+        {
+          "reason": "1.434944688587853m away from lane-center",
+          "timestamp": 1575187606561176
+        },
+        {
+          "reason": "1.4512467297736857m away from lane-center",
+          "timestamp": 1575187606589458
+        },
+        {
+          "reason": "1.4876388062024286m away from lane-center",
+          "timestamp": 1575187606615414
+        },
+        {
+          "reason": "1.5056975454088637m away from lane-center",
+          "timestamp": 1575187606642125
+        },
+        {
+          "reason": "1.5409751678018908m away from lane-center",
+          "timestamp": 1575187606667899
+        },
+        {
+          "reason": "1.557277210075595m away from lane-center",
+          "timestamp": 1575187606695683
+        },
+        {
+          "reason": "1.593718692776564m away from lane-center",
+          "timestamp": 1575187606722084
+        },
+        {
+          "reason": "1.6100207357889704m away from lane-center",
+          "timestamp": 1575187606748511
+        },
+        {
+          "reason": "1.6453971675659473m away from lane-center",
+          "timestamp": 1575187606774121
+        },
+        {
+          "reason": "1.6616992109806883m away from lane-center",
+          "timestamp": 1575187606801109
+        },
+        {
+          "reason": "1.6959255779513138m away from lane-center",
+          "timestamp": 1575187606827144
+        },
+        {
+          "reason": "1.7130812689194506m away from lane-center",
+          "timestamp": 1575187606854598
+        },
+        {
+          "reason": "1.7475052529793362m away from lane-center",
+          "timestamp": 1575187606879538
+        },
+        {
+          "reason": "1.7638073040189197m away from lane-center",
+          "timestamp": 1575187606906538
+        },
+        {
+          "reason": "1.7789776599495946m away from lane-center",
+          "timestamp": 1575187606932245
+        },
+        {
+          "reason": "1.7626818978998826m away from lane-center",
+          "timestamp": 1575187606960109
+        },
+        {
+          "reason": "1.7257494404409368m away from lane-center",
+          "timestamp": 1575187606986165
+        },
+        {
+          "reason": "1.7110282419697296m away from lane-center",
+          "timestamp": 1575187607012529
+        },
+        {
+          "reason": "1.6816597199740084m away from lane-center",
+          "timestamp": 1575187607037817
+        },
+        {
+          "reason": "1.6648412546429974m away from lane-center",
+          "timestamp": 1575187607065617
+        },
+        {
+          "reason": "1.629104554005313m away from lane-center",
+          "timestamp": 1575187607091883
+        },
+        {
+          "reason": "1.6131384836663714m away from lane-center",
+          "timestamp": 1575187607121297
+        },
+        {
+          "reason": "1.5743587770814977m away from lane-center",
+          "timestamp": 1575187607147209
+        },
+        {
+          "reason": "1.5601499567124526m away from lane-center",
+          "timestamp": 1575187607174947
+        },
+        {
+          "reason": "1.5237179646384982m away from lane-center",
+          "timestamp": 1575187607201763
+        },
+        {
+          "reason": "1.5077518910189152m away from lane-center",
+          "timestamp": 1575187607230169
+        },
+        {
+          "reason": "1.474139207251087m away from lane-center",
+          "timestamp": 1575187607256811
+        },
+        {
+          "reason": "1.456415863109076m away from lane-center",
+          "timestamp": 1575187607283242
+        },
+        {
+          "reason": "1.4226076029808852m away from lane-center",
+          "timestamp": 1575187607308930
+        },
+        {
+          "reason": "1.4075463586379438m away from lane-center",
+          "timestamp": 1575187607335938
+        },
+        {
+          "reason": "1.370590352107173m away from lane-center",
+          "timestamp": 1575187607361935
+        },
+        {
+          "reason": "1.3563815350852328m away from lane-center",
+          "timestamp": 1575187607390205
+        },
+        {
+          "reason": "1.3231496607783546m away from lane-center",
+          "timestamp": 1575187607415685
+        },
+        {
+          "reason": "1.3089408510860856m away from lane-center",
+          "timestamp": 1575187607442831
+        },
+        {
+          "reason": "1.2753945666634283m away from lane-center",
+          "timestamp": 1575187607468587
+        },
+        {
+          "reason": "1.2611857447547865m away from lane-center",
+          "timestamp": 1575187607496265
+        },
+        {
+          "reason": "1.228058661637605m away from lane-center",
+          "timestamp": 1575187607522670
+        },
+        {
+          "reason": "1.2112401251138512m away from lane-center",
+          "timestamp": 1575187607548983
+        },
+        {
+          "reason": "1.1793462958505796m away from lane-center",
+          "timestamp": 1575187607575243
+        },
+        {
+          "reason": "1.1651374756792179m away from lane-center",
+          "timestamp": 1575187607602582
+        },
+        {
+          "reason": "1.131695971128381m away from lane-center",
+          "timestamp": 1575187607628418
+        },
+        {
+          "reason": "1.117487145014509m away from lane-center",
+          "timestamp": 1575187607655999
+        },
+        {
+          "reason": "1.0830884051307632m away from lane-center",
+          "timestamp": 1575187607681320
+        },
+        {
+          "reason": "1.0671223109777925m away from lane-center",
+          "timestamp": 1575187607708500
+        },
+        {
+          "reason": "1.0354380808139494m away from lane-center",
+          "timestamp": 1575187607734523
+        },
+        {
+          "reason": "1.0194719953770623m away from lane-center",
+          "timestamp": 1575187607762607
+        },
+        {
+          "reason": "1.015115638981321m away from lane-center",
+          "timestamp": 1575187709428766
+        },
+        {
+          "reason": "1.0538047396710846m away from lane-center",
+          "timestamp": 1575187709457067
+        },
+        {
+          "reason": "1.0705055990627017m away from lane-center",
+          "timestamp": 1575187709486191
+        },
+        {
+          "reason": "1.112919391200661m away from lane-center",
+          "timestamp": 1575187709513796
+        },
+        {
+          "reason": "1.1296082614653673m away from lane-center",
+          "timestamp": 1575187709542365
+        },
+        {
+          "reason": "1.1681646804528045m away from lane-center",
+          "timestamp": 1575187709570556
+        },
+        {
+          "reason": "1.184865779097874m away from lane-center",
+          "timestamp": 1575187709600487
+        },
+        {
+          "reason": "1.227328486031506m away from lane-center",
+          "timestamp": 1575187709627620
+        },
+        {
+          "reason": "1.2190595000126256m away from lane-center",
+          "timestamp": 1575187709655699
+        },
+        {
+          "reason": "1.256864196849922m away from lane-center",
+          "timestamp": 1575187709682085
+        },
+        {
+          "reason": "1.270610928152073m away from lane-center",
+          "timestamp": 1575187709710597
+        },
+        {
+          "reason": "1.3105886673959768m away from lane-center",
+          "timestamp": 1575187709738172
+        },
+        {
+          "reason": "1.3262885171362564m away from lane-center",
+          "timestamp": 1575187709766850
+        },
+        {
+          "reason": "1.3661685307486602m away from lane-center",
+          "timestamp": 1575187709793731
+        },
+        {
+          "reason": "1.3818765229959475m away from lane-center",
+          "timestamp": 1575187709822360
+        },
+        {
+          "reason": "1.4218135457233076m away from lane-center",
+          "timestamp": 1575187709849738
+        },
+        {
+          "reason": "1.4375215434762003m away from lane-center",
+          "timestamp": 1575187709879448
+        },
+        {
+          "reason": "1.4775563216277514m away from lane-center",
+          "timestamp": 1575187709906455
+        },
+        {
+          "reason": "1.4932643277518733m away from lane-center",
+          "timestamp": 1575187709934608
+        },
+        {
+          "reason": "1.5373601014846985m away from lane-center",
+          "timestamp": 1575187709964493
+        },
+        {
+          "reason": "1.5530599627127364m away from lane-center",
+          "timestamp": 1575187709994130
+        },
+        {
+          "reason": "1.595243340158154m away from lane-center",
+          "timestamp": 1575187710022782
+        },
+        {
+          "reason": "1.612896309647257m away from lane-center",
+          "timestamp": 1575187710052798
+        },
+        {
+          "reason": "1.65498195988831m away from lane-center",
+          "timestamp": 1575187710080237
+        },
+        {
+          "reason": "1.6726349346592169m away from lane-center",
+          "timestamp": 1575187710108985
+        },
+        {
+          "reason": "1.6475643913959164m away from lane-center",
+          "timestamp": 1575187710136100
+        },
+        {
+          "reason": "1.629714170705823m away from lane-center",
+          "timestamp": 1575187710166125
+        },
+        {
+          "reason": "1.5871802936199466m away from lane-center",
+          "timestamp": 1575187710193203
+        },
+        {
+          "reason": "1.5693211588547011m away from lane-center",
+          "timestamp": 1575187710221882
+        },
+        {
+          "reason": "1.5328253082509031m away from lane-center",
+          "timestamp": 1575187710249078
+        },
+        {
+          "reason": "1.514966172308056m away from lane-center",
+          "timestamp": 1575187710277666
+        },
+        {
+          "reason": "1.4764457189439066m away from lane-center",
+          "timestamp": 1575187710305463
+        },
+        {
+          "reason": "1.458586569323059m away from lane-center",
+          "timestamp": 1575187710334192
+        },
+        {
+          "reason": "1.4181488247550162m away from lane-center",
+          "timestamp": 1575187710361684
+        },
+        {
+          "reason": "1.4002896986043234m away from lane-center",
+          "timestamp": 1575187710390493
+        },
+        {
+          "reason": "1.3617693265504212m away from lane-center",
+          "timestamp": 1575187710418169
+        },
+        {
+          "reason": "1.3439191534511519m away from lane-center",
+          "timestamp": 1575187710448308
+        },
+        {
+          "reason": "1.303266897306942m away from lane-center",
+          "timestamp": 1575187710475895
+        },
+        {
+          "reason": "1.287369800904077m away from lane-center",
+          "timestamp": 1575187710505336
+        },
+        {
+          "reason": "1.2469231179837212m away from lane-center",
+          "timestamp": 1575187710532098
+        },
+        {
+          "reason": "1.231026046596957m away from lane-center",
+          "timestamp": 1575187710560555
+        },
+        {
+          "reason": "1.0853383761887978m away from lane-center",
+          "timestamp": 1575187710587987
+        },
+        {
+          "reason": "1.070341234874203m away from lane-center",
+          "timestamp": 1575187710616380
+        },
+        {
+          "reason": "1.038584687346205m away from lane-center",
+          "timestamp": 1575187710643184
+        },
+        {
+          "reason": "1.0255381625364177m away from lane-center",
+          "timestamp": 1575187710671177
+        },
+        {
+          "reason": "1.0061806251848604m away from lane-center",
+          "timestamp": 1575187760362368
+        },
+        {
+          "reason": "1.0250040080969718m away from lane-center",
+          "timestamp": 1575187760389792
+        },
+        {
+          "reason": "1.0664875049555085m away from lane-center",
+          "timestamp": 1575187760417338
+        },
+        {
+          "reason": "1.08349875254427m away from lane-center",
+          "timestamp": 1575187760446723
+        },
+        {
+          "reason": "1.123567646579098m away from lane-center",
+          "timestamp": 1575187760473203
+        },
+        {
+          "reason": "1.1423914104433237m away from lane-center",
+          "timestamp": 1575187760499065
+        },
+        {
+          "reason": "1.1786236843714726m away from lane-center",
+          "timestamp": 1575187760523995
+        },
+        {
+          "reason": "1.1974474420238852m away from lane-center",
+          "timestamp": 1575187760550489
+        },
+        {
+          "reason": "1.2334319603392638m away from lane-center",
+          "timestamp": 1575187760577550
+        },
+        {
+          "reason": "1.2522552395279742m away from lane-center",
+          "timestamp": 1575187760605912
+        },
+        {
+          "reason": "1.289011081421587m away from lane-center",
+          "timestamp": 1575187760632166
+        },
+        {
+          "reason": "1.307834542013616m away from lane-center",
+          "timestamp": 1575187760659313
+        },
+        {
+          "reason": "1.3459641053718974m away from lane-center",
+          "timestamp": 1575187760684778
+        },
+        {
+          "reason": "1.3647878699839007m away from lane-center",
+          "timestamp": 1575187760713324
+        },
+        {
+          "reason": "1.4044605142111273m away from lane-center",
+          "timestamp": 1575187760739937
+        },
+        {
+          "reason": "1.4214720790446933m away from lane-center",
+          "timestamp": 1575187760766304
+        },
+        {
+          "reason": "1.455183757410283m away from lane-center",
+          "timestamp": 1575187760791011
+        },
+        {
+          "reason": "1.470383098666291m away from lane-center",
+          "timestamp": 1575187760817777
+        },
+        {
+          "reason": "1.5059496146590858m away from lane-center",
+          "timestamp": 1575187760843270
+        },
+        {
+          "reason": "1.5229612911586958m away from lane-center",
+          "timestamp": 1575187760869961
+        },
+        {
+          "reason": "1.561004476365309m away from lane-center",
+          "timestamp": 1575187760894065
+        },
+        {
+          "reason": "1.5762037317927495m away from lane-center",
+          "timestamp": 1575187760920696
+        },
+        {
+          "reason": "1.612831221993811m away from lane-center",
+          "timestamp": 1575187760945481
+        },
+        {
+          "reason": "1.6280305792687557m away from lane-center",
+          "timestamp": 1575187760972308
+        },
+        {
+          "reason": "1.6596624512682252m away from lane-center",
+          "timestamp": 1575187760997388
+        },
+        {
+          "reason": "1.655338182926623m away from lane-center",
+          "timestamp": 1575187761023608
+        },
+        {
+          "reason": "1.629589366386242m away from lane-center",
+          "timestamp": 1575187761049249
+        },
+        {
+          "reason": "1.618583362695993m away from lane-center",
+          "timestamp": 1575187761075918
+        },
+        {
+          "reason": "1.5888855663980235m away from lane-center",
+          "timestamp": 1575187761101647
+        },
+        {
+          "reason": "1.5767757639856828m away from lane-center",
+          "timestamp": 1575187761129118
+        },
+        {
+          "reason": "1.5468321152547015m away from lane-center",
+          "timestamp": 1575187761154867
+        },
+        {
+          "reason": "1.534722968450208m away from lane-center",
+          "timestamp": 1575187761183284
+        },
+        {
+          "reason": "1.504760789261799m away from lane-center",
+          "timestamp": 1575187761210174
+        },
+        {
+          "reason": "1.49265658028731m away from lane-center",
+          "timestamp": 1575187761238517
+        },
+        {
+          "reason": "1.4640552717634077m away from lane-center",
+          "timestamp": 1575187761264901
+        },
+        {
+          "reason": "1.4501354579358678m away from lane-center",
+          "timestamp": 1575187761291457
+        },
+        {
+          "reason": "1.4238473890781085m away from lane-center",
+          "timestamp": 1575187761317890
+        },
+        {
+          "reason": "1.4135659353244163m away from lane-center",
+          "timestamp": 1575187761345299
+        },
+        {
+          "reason": "1.3816570176868166m away from lane-center",
+          "timestamp": 1575187761372266
+        },
+        {
+          "reason": "1.3706655780196386m away from lane-center",
+          "timestamp": 1575187761401122
+        },
+        {
+          "reason": "1.343976021392055m away from lane-center",
+          "timestamp": 1575187761427474
+        },
+        {
+          "reason": "1.335519791770153m away from lane-center",
+          "timestamp": 1575187761454755
+        },
+        {
+          "reason": "1.3050513586744594m away from lane-center",
+          "timestamp": 1575187761481689
+        },
+        {
+          "reason": "1.2940667215355304m away from lane-center",
+          "timestamp": 1575187761509024
+        },
+        {
+          "reason": "1.2692285595377746m away from lane-center",
+          "timestamp": 1575187761534535
+        },
+        {
+          "reason": "1.2589584912175047m away from lane-center",
+          "timestamp": 1575187761560965
+        },
+        {
+          "reason": "1.2324759416388946m away from lane-center",
+          "timestamp": 1575187761585985
+        },
+        {
+          "reason": "1.2097906374259202m away from lane-center",
+          "timestamp": 1575187761612595
+        },
+        {
+          "reason": "1.1872444855303943m away from lane-center",
+          "timestamp": 1575187761638066
+        },
+        {
+          "reason": "1.1768489500175874m away from lane-center",
+          "timestamp": 1575187761665273
+        },
+        {
+          "reason": "1.1495675729092394m away from lane-center",
+          "timestamp": 1575187761689500
+        },
+        {
+          "reason": "1.135543167379064m away from lane-center",
+          "timestamp": 1575187761715796
+        },
+        {
+          "reason": "1.1129972718139742m away from lane-center",
+          "timestamp": 1575187761741482
+        },
+        {
+          "reason": "1.1007873321098263m away from lane-center",
+          "timestamp": 1575187761768177
+        },
+        {
+          "reason": "1.0811326775292647m away from lane-center",
+          "timestamp": 1575187761793025
+        },
+        {
+          "reason": "1.0707371977863032m away from lane-center",
+          "timestamp": 1575187761818740
+        },
+        {
+          "reason": "1.0459782602171415m away from lane-center",
+          "timestamp": 1575187761843968
+        },
+        {
+          "reason": "1.0373972584300155m away from lane-center",
+          "timestamp": 1575187761869449
+        },
+        {
+          "reason": "1.0169901607296579m away from lane-center",
+          "timestamp": 1575187761894590
+        },
+        {
+          "reason": "1.0065947757240752m away from lane-center",
+          "timestamp": 1575187761921426
+        },
+        {
+          "reason": "1.0053447456375884m away from lane-center",
+          "timestamp": 1575187767402582
+        },
+        {
+          "reason": "1.0557980985182984m away from lane-center",
+          "timestamp": 1575187767427907
+        },
+        {
+          "reason": "1.0751928245054545m away from lane-center",
+          "timestamp": 1575187767453810
+        },
+        {
+          "reason": "1.1181717146174248m away from lane-center",
+          "timestamp": 1575187767479375
+        },
+        {
+          "reason": "1.1359759684041169m away from lane-center",
+          "timestamp": 1575187767505448
+        },
+        {
+          "reason": "1.1716058704267545m away from lane-center",
+          "timestamp": 1575187767529977
+        },
+        {
+          "reason": "1.1919892863251131m away from lane-center",
+          "timestamp": 1575187767555488
+        },
+        {
+          "reason": "1.2325627401177102m away from lane-center",
+          "timestamp": 1575187767580206
+        },
+        {
+          "reason": "1.2537416440860225m away from lane-center",
+          "timestamp": 1575187767606977
+        },
+        {
+          "reason": "1.292745379986307m away from lane-center",
+          "timestamp": 1575187767631261
+        },
+        {
+          "reason": "1.313128930891846m away from lane-center",
+          "timestamp": 1575187767656302
+        },
+        {
+          "reason": "1.3335123452924404m away from lane-center",
+          "timestamp": 1575187767681162
+        },
+        {
+          "reason": "1.3831713395690746m away from lane-center",
+          "timestamp": 1575187767705818
+        },
+        {
+          "reason": "1.401771201494624m away from lane-center",
+          "timestamp": 1575187767731980
+        },
+        {
+          "reason": "1.4463417879544334m away from lane-center",
+          "timestamp": 1575187767757405
+        },
+        {
+          "reason": "1.4693049475011937m away from lane-center",
+          "timestamp": 1575187767782745
+        },
+        {
+          "reason": "1.4896889602724743m away from lane-center",
+          "timestamp": 1575187767807019
+        },
+        {
+          "reason": "1.538145224912896m away from lane-center",
+          "timestamp": 1575187767831271
+        },
+        {
+          "reason": "1.5585288922800329m away from lane-center",
+          "timestamp": 1575187767856012
+        },
+        {
+          "reason": "1.5806964506849728m away from lane-center",
+          "timestamp": 1575187767880537
+        },
+        {
+          "reason": "1.626165785282445m away from lane-center",
+          "timestamp": 1575187767904473
+        },
+        {
+          "reason": "1.6483334054830918m away from lane-center",
+          "timestamp": 1575187767928940
+        },
+        {
+          "reason": "1.6687173560656783m away from lane-center",
+          "timestamp": 1575187767953295
+        },
+        {
+          "reason": "1.717561457438177m away from lane-center",
+          "timestamp": 1575187767977880
+        },
+        {
+          "reason": "1.7379453552888553m away from lane-center",
+          "timestamp": 1575187768003738
+        },
+        {
+          "reason": "1.781699320720032m away from lane-center",
+          "timestamp": 1575187768028541
+        },
+        {
+          "reason": "1.8002990597421267m away from lane-center",
+          "timestamp": 1575187768053753
+        },
+        {
+          "reason": "1.8214778442262303m away from lane-center",
+          "timestamp": 1575187768077658
+        },
+        {
+          "reason": "1.792424837214172m away from lane-center",
+          "timestamp": 1575187768101238
+        },
+        {
+          "reason": "1.7700075720517137m away from lane-center",
+          "timestamp": 1575187768126373
+        },
+        {
+          "reason": "1.7493734266817802m away from lane-center",
+          "timestamp": 1575187768150444
+        },
+        {
+          "reason": "1.6877819728187415m away from lane-center",
+          "timestamp": 1575187768175169
+        },
+        {
+          "reason": "1.6677989561553928m away from lane-center",
+          "timestamp": 1575187768200282
+        },
+        {
+          "reason": "1.6470243103506266m away from lane-center",
+          "timestamp": 1575187768224271
+        },
+        {
+          "reason": "1.5991551652981422m away from lane-center",
+          "timestamp": 1575187768248536
+        },
+        {
+          "reason": "1.5801700670132708m away from lane-center",
+          "timestamp": 1575187768273921
+        },
+        {
+          "reason": "1.5594009615114899m away from lane-center",
+          "timestamp": 1575187768298488
+        },
+        {
+          "reason": "1.5091681004946331m away from lane-center",
+          "timestamp": 1575187768323908
+        },
+        {
+          "reason": "1.4884010795030973m away from lane-center",
+          "timestamp": 1575187768349121
+        },
+        {
+          "reason": "1.4684277213941441m away from lane-center",
+          "timestamp": 1575187768373308
+        },
+        {
+          "reason": "1.418411413663931m away from lane-center",
+          "timestamp": 1575187768397277
+        },
+        {
+          "reason": "1.3969880737989369m away from lane-center",
+          "timestamp": 1575187768421921
+        },
+        {
+          "reason": "1.3755648618952707m away from lane-center",
+          "timestamp": 1575187768446708
+        },
+        {
+          "reason": "1.321098824605663m away from lane-center",
+          "timestamp": 1575187768472766
+        },
+        {
+          "reason": "1.3004732990701868m away from lane-center",
+          "timestamp": 1575187768498204
+        },
+        {
+          "reason": "1.2554308671169523m away from lane-center",
+          "timestamp": 1575187768523215
+        },
+        {
+          "reason": "1.2340098271117197m away from lane-center",
+          "timestamp": 1575187768547166
+        },
+        {
+          "reason": "1.212589246664375m away from lane-center",
+          "timestamp": 1575187768571429
+        },
+        {
+          "reason": "1.1632031924470956m away from lane-center",
+          "timestamp": 1575187768595554
+        },
+        {
+          "reason": "1.141783247426007m away from lane-center",
+          "timestamp": 1575187768622117
+        },
+        {
+          "reason": "1.0998953021630273m away from lane-center",
+          "timestamp": 1575187768646704
+        },
+        {
+          "reason": "1.0784759448250334m away from lane-center",
+          "timestamp": 1575187768671809
+        },
+        {
+          "reason": "1.0552741481239454m away from lane-center",
+          "timestamp": 1575187768696313
+        },
+        {
+          "reason": "1.0067771107664938m away from lane-center",
+          "timestamp": 1575187768721858
+        },
+        {
+          "reason": "1.0152434650599396m away from lane-center",
+          "timestamp": 1575188162603877
+        },
+        {
+          "reason": "1.0398680564156362m away from lane-center",
+          "timestamp": 1575188162633761
+        },
+        {
+          "reason": "1.1033050977156849m away from lane-center",
+          "timestamp": 1575188162663430
+        },
+        {
+          "reason": "1.128120170724354m away from lane-center",
+          "timestamp": 1575188162694821
+        },
+        {
+          "reason": "1.1981482079840209m away from lane-center",
+          "timestamp": 1575188162725057
+        },
+        {
+          "reason": "1.2267949456533862m away from lane-center",
+          "timestamp": 1575188162756643
+        },
+        {
+          "reason": "1.3299475082178116m away from lane-center",
+          "timestamp": 1575188162786946
+        },
+        {
+          "reason": "1.3507614364724272m away from lane-center",
+          "timestamp": 1575188162818104
+        },
+        {
+          "reason": "1.410186000419209m away from lane-center",
+          "timestamp": 1575188162848146
+        },
+        {
+          "reason": "1.4312139341561547m away from lane-center",
+          "timestamp": 1575188162878433
+        },
+        {
+          "reason": "1.4916992382841883m away from lane-center",
+          "timestamp": 1575188162908353
+        },
+        {
+          "reason": "1.5165492779713363m away from lane-center",
+          "timestamp": 1575188162938911
+        },
+        {
+          "reason": "1.5826858841131808m away from lane-center",
+          "timestamp": 1575188162969191
+        },
+        {
+          "reason": "1.6092401138556562m away from lane-center",
+          "timestamp": 1575188163000877
+        },
+        {
+          "reason": "1.679113526323736m away from lane-center",
+          "timestamp": 1575188163030712
+        },
+        {
+          "reason": "1.7081922773590772m away from lane-center",
+          "timestamp": 1575188163061577
+        },
+        {
+          "reason": "1.7808751417740836m away from lane-center",
+          "timestamp": 1575188163091489
+        },
+        {
+          "reason": "1.7652619848069298m away from lane-center",
+          "timestamp": 1575188163123283
+        },
+        {
+          "reason": "1.6834062786550774m away from lane-center",
+          "timestamp": 1575188163154437
+        },
+        {
+          "reason": "1.6537286876412518m away from lane-center",
+          "timestamp": 1575188163185246
+        },
+        {
+          "reason": "1.5734528375709504m away from lane-center",
+          "timestamp": 1575188163215175
+        },
+        {
+          "reason": "1.5401604376771014m away from lane-center",
+          "timestamp": 1575188163246047
+        },
+        {
+          "reason": "1.450804970645442m away from lane-center",
+          "timestamp": 1575188163278675
+        },
+        {
+          "reason": "1.4190149602897535m away from lane-center",
+          "timestamp": 1575188163310546
+        },
+        {
+          "reason": "1.3634357734092963m away from lane-center",
+          "timestamp": 1575188163340351
+        },
+        {
+          "reason": "1.340650169650483m away from lane-center",
+          "timestamp": 1575188163371338
+        },
+        {
+          "reason": "1.2779032195857656m away from lane-center",
+          "timestamp": 1575188163401333
+        },
+        {
+          "reason": "1.2555685819650306m away from lane-center",
+          "timestamp": 1575188163433276
+        },
+        {
+          "reason": "1.1876672699957744m away from lane-center",
+          "timestamp": 1575188163464159
+        },
+        {
+          "reason": "1.1608560438641433m away from lane-center",
+          "timestamp": 1575188163495819
+        },
+        {
+          "reason": "1.090121689223176m away from lane-center",
+          "timestamp": 1575188163526217
+        },
+        {
+          "reason": "1.0628602119394277m away from lane-center",
+          "timestamp": 1575188163557256
+        },
+        {
+          "reason": "1.0228957077238887m away from lane-center",
+          "timestamp": 1575188801252178
+        },
+        {
+          "reason": "1.0801462761774914m away from lane-center",
+          "timestamp": 1575188801288323
+        },
+        {
+          "reason": "1.1374087356334772m away from lane-center",
+          "timestamp": 1575188801324013
+        },
+        {
+          "reason": "1.1960170062942526m away from lane-center",
+          "timestamp": 1575188801361033
+        },
+        {
+          "reason": "1.2523904591857686m away from lane-center",
+          "timestamp": 1575188801397390
+        },
+        {
+          "reason": "1.3093111923566452m away from lane-center",
+          "timestamp": 1575188801433483
+        },
+        {
+          "reason": "1.365078260172483m away from lane-center",
+          "timestamp": 1575188801469846
+        },
+        {
+          "reason": "1.4210965104136684m away from lane-center",
+          "timestamp": 1575188801505944
+        },
+        {
+          "reason": "1.4731549410711091m away from lane-center",
+          "timestamp": 1575188801540145
+        },
+        {
+          "reason": "1.5252384550439064m away from lane-center",
+          "timestamp": 1575188801575118
+        },
+        {
+          "reason": "1.5935869653638552m away from lane-center",
+          "timestamp": 1575188801610936
+        },
+        {
+          "reason": "1.6663823268164402m away from lane-center",
+          "timestamp": 1575188801646021
+        },
+        {
+          "reason": "1.7350563394668248m away from lane-center",
+          "timestamp": 1575188801679742
+        },
+        {
+          "reason": "1.74389597308494m away from lane-center",
+          "timestamp": 1575188801729829
+        },
+        {
+          "reason": "1.632752046733042m away from lane-center",
+          "timestamp": 1575188801788559
+        },
+        {
+          "reason": "1.5574232337901373m away from lane-center",
+          "timestamp": 1575188801828850
+        },
+        {
+          "reason": "1.4902212738365699m away from lane-center",
+          "timestamp": 1575188801866067
+        },
+        {
+          "reason": "1.4239490210520218m away from lane-center",
+          "timestamp": 1575188801903146
+        },
+        {
+          "reason": "1.3613609877218478m away from lane-center",
+          "timestamp": 1575188801939182
+        },
+        {
+          "reason": "1.2984185880701098m away from lane-center",
+          "timestamp": 1575188801976107
+        },
+        {
+          "reason": "1.2363136914932755m away from lane-center",
+          "timestamp": 1575188802013627
+        },
+        {
+          "reason": "1.1793065406543584m away from lane-center",
+          "timestamp": 1575188802049083
+        },
+        {
+          "reason": "1.1233571306421473m away from lane-center",
+          "timestamp": 1575188802083947
+        },
+        {
+          "reason": "1.0284104280814024m away from lane-center",
+          "timestamp": 1575188802120115
+        },
+        {
+          "reason": "1.0073186985125666m away from lane-center",
+          "timestamp": 1575188861301706
+        },
+        {
+          "reason": "1.0271556265743047m away from lane-center",
+          "timestamp": 1575188861339224
+        },
+        {
+          "reason": "1.0459909368646465m away from lane-center",
+          "timestamp": 1575188861377242
+        },
+        {
+          "reason": "1.0649828191020505m away from lane-center",
+          "timestamp": 1575188861414278
+        },
+        {
+          "reason": "1.0825207323035686m away from lane-center",
+          "timestamp": 1575188861451312
+        },
+        {
+          "reason": "1.1006921302672728m away from lane-center",
+          "timestamp": 1575188861488390
+        },
+        {
+          "reason": "1.1175972752147516m away from lane-center",
+          "timestamp": 1575188861525380
+        },
+        {
+          "reason": "1.1354350711971288m away from lane-center",
+          "timestamp": 1575188861562135
+        },
+        {
+          "reason": "1.1525773486087425m away from lane-center",
+          "timestamp": 1575188861600464
+        },
+        {
+          "reason": "1.1683958113574433m away from lane-center",
+          "timestamp": 1575188861636648
+        },
+        {
+          "reason": "1.1843653901223385m away from lane-center",
+          "timestamp": 1575188861672752
+        },
+        {
+          "reason": "1.2107441702892778m away from lane-center",
+          "timestamp": 1575188861709748
+        },
+        {
+          "reason": "1.2378309077952585m away from lane-center",
+          "timestamp": 1575188861745149
+        },
+        {
+          "reason": "1.263394282028648m away from lane-center",
+          "timestamp": 1575188861779745
+        },
+        {
+          "reason": "1.2876100288472783m away from lane-center",
+          "timestamp": 1575188861814635
+        },
+        {
+          "reason": "1.3144948787002353m away from lane-center",
+          "timestamp": 1575188861850117
+        },
+        {
+          "reason": "1.339264689906271m away from lane-center",
+          "timestamp": 1575188861884212
+        },
+        {
+          "reason": "1.365299579381568m away from lane-center",
+          "timestamp": 1575188861918832
+        },
+        {
+          "reason": "1.3900307776506842m away from lane-center",
+          "timestamp": 1575188861954667
+        },
+        {
+          "reason": "1.4139819905745754m away from lane-center",
+          "timestamp": 1575188861989428
+        },
+        {
+          "reason": "1.4386029812882344m away from lane-center",
+          "timestamp": 1575188862024229
+        },
+        {
+          "reason": "1.463939540354349m away from lane-center",
+          "timestamp": 1575188862059929
+        },
+        {
+          "reason": "1.496661389016656m away from lane-center",
+          "timestamp": 1575188862095161
+        },
+        {
+          "reason": "1.5328899287343054m away from lane-center",
+          "timestamp": 1575188862130005
+        },
+        {
+          "reason": "1.5685830498904008m away from lane-center",
+          "timestamp": 1575188862164909
+        },
+        {
+          "reason": "1.6058747564728706m away from lane-center",
+          "timestamp": 1575188862200911
+        },
+        {
+          "reason": "1.6411518756537076m away from lane-center",
+          "timestamp": 1575188862235528
+        },
+        {
+          "reason": "1.6759305655513828m away from lane-center",
+          "timestamp": 1575188862270335
+        },
+        {
+          "reason": "1.7125017465975674m away from lane-center",
+          "timestamp": 1575188862306152
+        },
+        {
+          "reason": "1.7475389019445262m away from lane-center",
+          "timestamp": 1575188862340821
+        },
+        {
+          "reason": "1.782252968550791m away from lane-center",
+          "timestamp": 1575188862375671
+        },
+        {
+          "reason": "1.818815175602031m away from lane-center",
+          "timestamp": 1575188862411679
+        },
+        {
+          "reason": "1.8262267542063857m away from lane-center",
+          "timestamp": 1575188862446651
+        },
+        {
+          "reason": "1.7910656700033007m away from lane-center",
+          "timestamp": 1575188862481186
+        },
+        {
+          "reason": "1.7549005345244841m away from lane-center",
+          "timestamp": 1575188862516156
+        },
+        {
+          "reason": "1.6983170466360191m away from lane-center",
+          "timestamp": 1575188862551543
+        },
+        {
+          "reason": "1.6541376106720396m away from lane-center",
+          "timestamp": 1575188862586315
+        },
+        {
+          "reason": "1.6104301092242712m away from lane-center",
+          "timestamp": 1575188862620933
+        },
+        {
+          "reason": "1.5662298604404812m away from lane-center",
+          "timestamp": 1575188862656715
+        },
+        {
+          "reason": "1.523931324426039m away from lane-center",
+          "timestamp": 1575188862690924
+        },
+        {
+          "reason": "1.4804944216933162m away from lane-center",
+          "timestamp": 1575188862725298
+        },
+        {
+          "reason": "1.4344131363818369m away from lane-center",
+          "timestamp": 1575188862763322
+        },
+        {
+          "reason": "1.3907957352670477m away from lane-center",
+          "timestamp": 1575188862798114
+        },
+        {
+          "reason": "1.3486707470012136m away from lane-center",
+          "timestamp": 1575188862832605
+        },
+        {
+          "reason": "1.3063096936318255m away from lane-center",
+          "timestamp": 1575188862867439
+        },
+        {
+          "reason": "1.262914386832503m away from lane-center",
+          "timestamp": 1575188862902826
+        },
+        {
+          "reason": "1.2197005133686345m away from lane-center",
+          "timestamp": 1575188862936914
+        },
+        {
+          "reason": "1.1702301778807642m away from lane-center",
+          "timestamp": 1575188862971822
+        },
+        {
+          "reason": "1.120134249512222m away from lane-center",
+          "timestamp": 1575188863007571
+        },
+        {
+          "reason": "1.072924899101862m away from lane-center",
+          "timestamp": 1575188863041782
+        },
+        {
+          "reason": "1.0257877679687415m away from lane-center",
+          "timestamp": 1575188863076075
+        },
+        {
+          "reason": "1.0261074561759043m away from lane-center",
+          "timestamp": 1575188938282657
+        },
+        {
+          "reason": "1.0591665882530197m away from lane-center",
+          "timestamp": 1575188938320251
+        },
+        {
+          "reason": "1.1334881675818869m away from lane-center",
+          "timestamp": 1575188938358822
+        },
+        {
+          "reason": "1.1721399640082173m away from lane-center",
+          "timestamp": 1575188938397088
+        },
+        {
+          "reason": "1.208952538808599m away from lane-center",
+          "timestamp": 1575188938434167
+        },
+        {
+          "reason": "1.247334327154388m away from lane-center",
+          "timestamp": 1575188938471750
+        },
+        {
+          "reason": "1.2862285501173911m away from lane-center",
+          "timestamp": 1575188938510006
+        },
+        {
+          "reason": "1.32615175052594m away from lane-center",
+          "timestamp": 1575188938548818
+        },
+        {
+          "reason": "1.36517806354941m away from lane-center",
+          "timestamp": 1575188938586803
+        },
+        {
+          "reason": "1.4043292914297303m away from lane-center",
+          "timestamp": 1575188938624655
+        },
+        {
+          "reason": "1.4434349266393693m away from lane-center",
+          "timestamp": 1575188938662872
+        },
+        {
+          "reason": "1.4818934235839403m away from lane-center",
+          "timestamp": 1575188938700032
+        },
+        {
+          "reason": "1.52097253274753m away from lane-center",
+          "timestamp": 1575188938737393
+        },
+        {
+          "reason": "1.5611940178514603m away from lane-center",
+          "timestamp": 1575188938776282
+        },
+        {
+          "reason": "1.5994896060809825m away from lane-center",
+          "timestamp": 1575188938813802
+        },
+        {
+          "reason": "1.6384539968109664m away from lane-center",
+          "timestamp": 1575188938851842
+        },
+        {
+          "reason": "1.6782600139795658m away from lane-center",
+          "timestamp": 1575188938890554
+        },
+        {
+          "reason": "1.7199152731775793m away from lane-center",
+          "timestamp": 1575188938931043
+        },
+        {
+          "reason": "1.7472373342315188m away from lane-center",
+          "timestamp": 1575188938968730
+        },
+        {
+          "reason": "1.7093278976583721m away from lane-center",
+          "timestamp": 1575188939006262
+        },
+        {
+          "reason": "1.6692891801929814m away from lane-center",
+          "timestamp": 1575188939045081
+        },
+        {
+          "reason": "1.630517359598678m away from lane-center",
+          "timestamp": 1575188939082775
+        },
+        {
+          "reason": "1.5923845545771755m away from lane-center",
+          "timestamp": 1575188939121009
+        },
+        {
+          "reason": "1.552533264457703m away from lane-center",
+          "timestamp": 1575188939160299
+        },
+        {
+          "reason": "1.515674399658605m away from lane-center",
+          "timestamp": 1575188939197683
+        },
+        {
+          "reason": "1.479026432347101m away from lane-center",
+          "timestamp": 1575188939235114
+        },
+        {
+          "reason": "1.441356895413714m away from lane-center",
+          "timestamp": 1575188939274011
+        },
+        {
+          "reason": "1.4044240871655536m away from lane-center",
+          "timestamp": 1575188939312111
+        },
+        {
+          "reason": "1.3684460041688797m away from lane-center",
+          "timestamp": 1575188939350058
+        },
+        {
+          "reason": "1.332091561251168m away from lane-center",
+          "timestamp": 1575188939388655
+        },
+        {
+          "reason": "1.2965802115827756m away from lane-center",
+          "timestamp": 1575188939427402
+        },
+        {
+          "reason": "1.2594205183769618m away from lane-center",
+          "timestamp": 1575188939464773
+        },
+        {
+          "reason": "1.2255278904226523m away from lane-center",
+          "timestamp": 1575188939502903
+        },
+        {
+          "reason": "1.1918594974661805m away from lane-center",
+          "timestamp": 1575188939541441
+        },
+        {
+          "reason": "1.158982309639234m away from lane-center",
+          "timestamp": 1575188939579128
+        },
+        {
+          "reason": "1.126773228718132m away from lane-center",
+          "timestamp": 1575188939616967
+        },
+        {
+          "reason": "1.0937960047300848m away from lane-center",
+          "timestamp": 1575188939656150
+        },
+        {
+          "reason": "1.062359738699364m away from lane-center",
+          "timestamp": 1575188939694446
+        },
+        {
+          "reason": "1.0322405934684495m away from lane-center",
+          "timestamp": 1575188939732901
+        }
+      ],
+      "res": "fail",
+      "max_dist_nonSplit": 1.8669478549366512
+    },
+    "ACC": {
+      "eval_time": 1575215325174735104,
+      "res": "pass",
+      "min_distance": 15.55022011049497,
+      "sim_begin": 0,
+      "failure_time": [
+        
+      ],
+      "collision": {
+        "collision_results": {
+          "collision_time": [
+            
+          ],
+          "collision_occured": "No",
+          "collision_thresholds": [
+            
+          ]
+        }
+      },
+      "thresholds": [
+        {
+          "value": "10.0",
+          "param": "following distance"
+        }
+      ]
+    }
+  },
+  "eval_res": {
+    "AD(Miles)": 45.195916069535166,
+    "res": "pass",
+    "Disengaged": false
+  },
+  "av_res": {
+    "KPI": {
+      "MAD": {
+        "noOfDisengages": 0,
+        "res(in miles)": 45.195916069535166,
+        "sessionInfo": [
+          {
+            "startLocation": {
+              "timestamp": 1575186604000435,
+              "altitude": 3.0,
+              "longitude": -122.28065266666667,
+              "latitude": 37.536591333333334
+            },
+            "endLocation": {
+              "timestamp": 1575189231939519,
+              "altitude": 9.75,
+              "longitude": -122.29644333333333,
+              "latitude": 37.551809
+            },
+            "distance(meters)": 72735.77544233651,
+            "index": 1
+          }
+        ],
+        "totalAutoDist(in miles)": 45.195916069535166
+      },
+      "Disengages": 0,
+      "Braking": {
+        "Safe Braking": 0.0,
+        "Comfort Braking": 1.0
+      },
+      "Coasting": {
+        "Avg. Coasting Distance(miles)": 44.98491915502019,
+        "Avg. Coasting time(mins)": 8.776868053333335,
+        "Max Coasting time(mins)": 19.374001433333333,
+        "Max Coasting Distance(miles)": 44.98491915502019
+      },
+      "Long Comfort": {
+        "value": 100.0,
+        "No. of Seg": {
+          "Extreme Discomfort": 0,
+          "Slight Discomfort": 0,
+          "Comfort": 149,
+          "Discomfort": 0
+        },
+        "No. of Discomfortable Seg": 0,
+        "Si": [
+          0.1077046188135052,
+          0,
+          0,
+          0
+        ],
+        "Total Seg": 149,
+        "version": 2.0
+      },
+      "Lat Comfort": {
+        "value": 96.61629917642797,
+        "No. of Seg": {
+          "Extreme Discomfort": 0,
+          "Slight Discomfort": 1,
+          "Comfort": 148,
+          "Discomfort": 0
+        },
+        "No. of Discomfortable Seg": 1,
+        "Si": [
+          0.08801493405839546,
+          0.006605278687787125,
+          0,
+          0
+        ],
+        "Total Seg": 149,
+        "version": 2.0
+      },
+      "Long Jerk": {
+        "No. of Jerks": 0
+      },
+      "Level2 Comfort": {
+        "value": 45.195916069535166,
+        "discomfortGroups": 1
+      },
+      "Lat Jerk": {
+        "No. of Jerks": 0
+      }
+    },
+    "ACC": {
+      "failure_time": [
+        
+      ],
+      "eval_time": 1575215325207173120,
+      "jerk_eval_results": {
+        "long_jerk_res": {
+          "seg_num": [
+            
+          ],
+          "jerk_value": [
+            
+          ],
+          "jerk_time": [
+            
+          ]
+        }
+      },
+      "res": "pass",
+      "min_distance": 999
+    },
+    "HeartBeat": "pass"
+  }
+}
+18.47
